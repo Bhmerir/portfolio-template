@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+}
+.card-body{
+    background-color: beige;
+    
+}
+.card{
+    height: 600px;
+    width: 1000px;
+    font-size: 18px;    
+    margin: 70px;
+}
